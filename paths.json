@@ -1,0 +1,4 @@
+{
+    "gmsh": "gmsh",
+    "mmg": "/share/softs/spack/opt/spack/linux-centos7-skylake_avx512/gcc-9.3.1/mmg-5.6.0-7gqt2uvbe3abajuuarwupr324psm6hur/bin/mmgs_O3d"
+}
